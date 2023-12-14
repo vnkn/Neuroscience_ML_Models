@@ -1,0 +1,1 @@
+In this repo, I present modeling of key neuroscience concepts using machine learning / neural networks.  There are three seperate models for a probabilistic leaky neuron with spikes and voltages, a Hippocampal autoencoder with a feed-forward auto-encoder model, and learning invariance from transformational sequences. 
